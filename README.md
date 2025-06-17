@@ -8,3 +8,7 @@
 
 ### Copy Paste
 ![sea-animal-small-internal-shell-600nw-1134151736](https://github.com/user-attachments/assets/d2befaa3-0e97-4fc7-bc8c-7706547347f6)
+
+### Copied Image From Browser
+![image](https://github.com/user-attachments/assets/6275d8a8-6743-4c60-94f3-7e1f7d9cabb9)
+
