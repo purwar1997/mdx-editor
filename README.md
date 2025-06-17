@@ -11,4 +11,3 @@
 
 ### Copied Image From Browser
 ![image](https://github.com/user-attachments/assets/6275d8a8-6743-4c60-94f3-7e1f7d9cabb9)
-
